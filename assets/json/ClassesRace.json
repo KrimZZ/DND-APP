@@ -1,0 +1,90 @@
+{
+  "classes": [
+    {
+      "name": "Barbaro",
+      "description": "Un guerriero feroce che sfrutta la sua rabbia per ottenere forza in battaglia."
+    },
+    {
+      "name": "Bardo",
+      "description": "Un abile musicista e incantatore che può ispirare gli alleati e manipolare la realtà."
+    },
+    {
+      "name": "Chierico",
+      "description": "Un devoto servitore degli dei che ha il potere di curare e proteggere gli alleati, nonché infliggere danni ai nemici."
+    },
+    {
+      "name": "Druido",
+      "description": "Un guardiano della natura che può cambiare forma e comandare gli elementi."
+    },
+    {
+      "name": "Guerriero",
+      "description": "Un guerriero versatile esperto di varie tecniche di combattimento e stili di arma."
+    },
+    {
+      "name": "Monaco",
+      "description": "Un artista marziale disciplinato che sfrutta il suo ki per compiere imprese straordinarie."
+    },
+    {
+      "name": "Paladino",
+      "description": "Un cavaliere sacro dedicato alla giustizia e alla sconfitta del male."
+    },
+    {
+      "name": "Ranger",
+      "description": "Un abile cacciatore e tracciatore che eccelle nell'esplorazione selvaggia e nel combattimento a distanza."
+    },
+    {
+      "name": "Ladro",
+      "description": "Un ladro e assassino furtivo che si specializza in azioni astute e colpi precisi."
+    },
+    {
+      "name": "Stregone",
+      "description": "Un incantatore con abilità magiche innate, spesso legate a un'eredità sovrannaturale."
+    },
+    {
+      "name": "Warlock",
+      "description": "Un utilizzatore di magia oscura che stipula un patto con un potente essere proveniente da altri mondi."
+    },
+    {
+      "name": "Mago",
+      "description": "Uno studioso incantatore che domina le arti arcane attraverso lo studio e la ricerca diligente."
+    }
+  ],
+  "races": [
+    {
+      "name": "Umano",
+      "description": "Un umano comune senza particolari abilità speciali."
+    },
+    {
+      "name": "Elfo",
+      "description": "Un elfo aggraziato con affinità per la magia e una connessione con la natura."
+    },
+    {
+      "name": "Nano",
+      "description": "Un nano resistente e abile nella lavorazione dei metalli e nella difesa delle proprie terre."
+    },
+    {
+      "name": "Halfling",
+      "description": "Un halfling fortunato e abile nel nascondersi e nell'evitare i pericoli."
+    },
+    {
+      "name": "Mezzelfo",
+      "description": "Un individuo con discendenza sia elfica che umana, con tratti e abilità di entrambe le razze."
+    },
+    {
+      "name": "Mezzorco",
+      "description": "Un individuo con discendenza sia umana che orchesca, noto per la sua forza e resistenza."
+    },
+    {
+      "name": "Dragonide",
+      "description": "Un essere con sangue draconico, con la capacità di respirare energia e possedere alcuni tratti dei draghi."
+    },
+    {
+      "name": "Gnomo",
+      "description": "Un inventore e studioso curioso, noto per la sua abilità nella magia e nella creazione di macchinari."
+    },
+    {
+      "name": "Tiefling",
+      "description": "Un individuo con discendenza infernale, con tratti demoniaci e abilità legate all'oscurità."
+    }
+  ]
+}
